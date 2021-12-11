@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
+
+*{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.border-1{
+    border-width: 1px ;
+}
+
+.border-999{
+    border-width: 0.01em;
+}
+
+.bg-gray-custom{
+    background: #1D1D1D;
+}
+
+.bg-orange-dark-custom{
+    background: #251700;
+}
+
+.text-orange-custom{
+    color: #FF9601;
+}
+
+.bg-orange-custom:hover{
+    background: #FF9601;
+}
+
+.border-orange-custom{
+    border-color: #FF9601;
+}
+
+.bg-blue-dark-mode{
+    background: #0A1929;
+}
+
+
+
